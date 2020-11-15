@@ -1,4 +1,4 @@
-module github.com/coocood/freecache
+module github.com/raulk/freecache
 
 go 1.13
 

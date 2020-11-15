@@ -5,7 +5,6 @@ import (
 	"bufio"
 	"bytes"
 	"errors"
-	"github.com/coocood/freecache"
 	"io"
 	"log"
 	"net"
@@ -15,6 +14,8 @@ import (
 	"runtime/debug"
 	"strconv"
 	"time"
+
+	"github.com/raulk/freecache"
 )
 
 var (
